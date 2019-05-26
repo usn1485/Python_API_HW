@@ -47,6 +47,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+#Ignore api_key file
+api_keys.py
+
 # Translations
 *.mo
 *.pot
